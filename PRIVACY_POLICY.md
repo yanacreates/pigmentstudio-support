@@ -5,7 +5,7 @@
 
 Pigment Studio ("the App") is developed and operated by Yana Valieva ("I," "me," or "my"), an individual developer. This Privacy Policy explains how the App handles your information.
 
-Pigment Studio was built with privacy in mind. The App works almost entirely on your device, and does not collect, store, or have access to your personal data.
+Pigment Studio was built with privacy in mind. The App works almost entirely on your device, and does not collect or store your personal data.
 
 ---
 
@@ -63,7 +63,7 @@ Pigment Studio does **not sell or share your personal information** with third p
 
 ## 7. Children's Privacy
 
-Pigment Studio is not directed at children under 13 and does not knowingly collect personal information from children under 13.
+Pigment Studio does not knowingly collect personal information from children under 13. For data held by Apple or RevenueCat in connection with the subscription, please refer to the respective privacy policies.
 
 ---
 
@@ -75,7 +75,7 @@ If I make material changes to this policy, I will update the Effective Date abov
 
 ## 9. Contact
 
-For data processed solely by Apple or RevenueCat, requests must be directed to those providers.  
+For data processed solely by Apple or RevenueCat, requests must be directed to those providers.
 For questions about this Privacy Policy or to exercise your data rights, contact:
 
 **Yana Valieva (Data Controller)**

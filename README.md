@@ -52,3 +52,6 @@ For questions or support, email: yana.a.valieva@gmail.com
 ## Links
 - [Terms of Service](./TERMS_OF_SERVICE.md)
 - [Privacy Policy](./PRIVACY_POLICY.md)
+
+## Credits
+App Store preview templates adapted from [App Store / Play Store Preview Templates / Icon generator](https://www.figma.com/community/file/886620275115089774) by [Share](https://www.figma.com/@share), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
